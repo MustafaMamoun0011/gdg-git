@@ -4,3 +4,6 @@ if grade >= 50 :
     
 elif grade < 50:
     print ("Failed")
+    
+else:
+    print("Invalid")
